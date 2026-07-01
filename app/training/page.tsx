@@ -5,67 +5,69 @@ export default function TrainingPage() {
 
         <div className="text-center mb-12">
           <h1 className="text-5xl font-bold mb-4">
-            Training & Mentoring
+            Professional Training & Certification
           </h1>
 
           <p className="text-slate-300 text-lg">
-            Executive training, certification preparation, and mentoring
-            services delivered by Piyush Agarwal.
+            Hands-on training in cybersecurity, governance, project management, and enterprise best practices, delivered by an MBA, CISSP, CISM, and PMP-certified consultant with 25+ years of industry experience..
           </p>
         </div>
 
         <div className="grid md:grid-cols-2 gap-6">
 
-          <div className="bg-slate-900 border border-slate-800 rounded-xl p-8">
-            <h2 className="text-2xl font-bold mb-4">
-              Cybersecurity Certifications
-            </h2>
+  <div className="bg-slate-900 border border-slate-800 rounded-xl p-8">
+    <h2 className="text-2xl font-bold mb-4">
+      Certification Training
+    </h2>
 
-            <ul className="space-y-3 text-slate-300">
-              <li>• CISSP Exam Preparation</li>
-              <li>• CISM Exam Preparation</li>
-              <li>• PMP Exam Preparation</li>
-              <li>• Security Leadership Coaching</li>
-            </ul>
-          </div>
+    <ul className="space-y-3 text-slate-300">
+      <li>• CISSP Exam Preparation</li>
+      <li>• CISM Exam Preparation</li>
+      <li>• PMP Exam Preparation</li>
+    </ul>
+  </div>
 
-          <div className="bg-slate-900 border border-slate-800 rounded-xl p-8">
-            <h2 className="text-2xl font-bold mb-4">
-              Leadership & Governance
-            </h2>
+  <div className="bg-slate-900 border border-slate-800 rounded-xl p-8">
+    <h2 className="text-2xl font-bold mb-4">
+      Cybersecurity & GRC
+    </h2>
 
-            <ul className="space-y-3 text-slate-300">
-              <li>• Risk Management</li>
-              <li>• Governance & Compliance</li>
-              <li>• Executive Leadership Mentoring</li>
-            </ul>
-          </div>
+    <ul className="space-y-3 text-slate-300">
+      <li>• Risk Management</li>
+      <li>• Governance & Compliance</li>
+      <li>• NIST CSF, RMF & ITSG-33</li>
+      <li>• ISO 27001</li>
+      <li>• Security Assessments</li>
+    </ul>
+  </div>
 
-          <div className="bg-slate-900 border border-slate-800 rounded-xl p-8">
-            <h2 className="text-2xl font-bold mb-4">
-              Project & Program Management
-            </h2>
+  <div className="bg-slate-900 border border-slate-800 rounded-xl p-8">
+    <h2 className="text-2xl font-bold mb-4">
+      Project & Program Management
+    </h2>
 
-            <ul className="space-y-3 text-slate-300">
-              <li>• PMP Coaching</li>
-              <li>• Agile & Waterfall Delivery</li>
-              <li>• PMO Governance</li>
-            </ul>
-          </div>
+    <ul className="space-y-3 text-slate-300">
+      <li>• Agile & Waterfall Delivery</li>
+      <li>• PMO Governance</li>
+      <li>• Portfolio Management</li>
+      <li>• Project Delivery Excellence</li>
+    </ul>
+  </div>
 
-          <div className="bg-slate-900 border border-slate-800 rounded-xl p-8">
-            <h2 className="text-2xl font-bold mb-4">
-              Career Coaching
-            </h2>
+  <div className="bg-slate-900 border border-slate-800 rounded-xl p-8">
+    <h2 className="text-2xl font-bold mb-4">
+      Corporate Training
+    </h2>
 
-            <ul className="space-y-3 text-slate-300">
-              <li>• Resume Review</li>
-              <li>• Interview Preparation</li>
-              <li>• Career Mentoring</li>
-            </ul>
-          </div>
+    <ul className="space-y-3 text-slate-300">
+  <li>• Cybersecurity Workshops</li>
+  <li>• Enterprise Risk Management Training</li>
+  <li>• Security Awareness Programs</li>
+  <li>• Customized Corporate Training</li>
+</ul>
+  </div>
 
-        </div>
+</div>
 
         <div className="mt-12 bg-slate-900 border border-slate-800 rounded-xl p-10 text-center">
           <h2 className="text-4xl font-bold mb-4">
